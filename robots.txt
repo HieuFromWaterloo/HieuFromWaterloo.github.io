@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://HieuFromWaterloo.github.io/sitemap.xml
