@@ -56,5 +56,35 @@ the order in which the word occurs is not taken into account. The core of topic 
 </description>
     </item>
     
+    <item>
+      <title>Predict the Success of Bank Telemarketing</title>
+      <link>https://HieuFromWaterloo.github.io/post/stat441/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://HieuFromWaterloo.github.io/post/stat441/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The financial sector is in the midst of a transformation. The Canadian industry, long dominated by &amp;ldquo;the Big Five&amp;rdquo; (RBC, CIBC, BMO, TD, and Scotia), is facing increasing competition with international banks and novel technologies such as robo-advisors. This shift is compounded by socioeconomic phenomenon including the foreboding of a North American recession and the global resurgence of populism. Hence, more than ever, financial institutions must identify ways to recruit and retain a loyal customer base. Targeted phone-based campaigns have long been useful tools to this end. In this project, we aim to discover the attributes of a successful telephone-based marketing campaign promoting financial services. In particular, we are interested in identifying the characteristics of clients who have subscribed to a term deposit with a bank after being contacted by a customer engagement representative. We will be utilizing campaign led by a Portuguese bank between 2008 and 2010 to fit a variety of classification models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning &amp; NLP applications in Capital Markets</title>
+      <link>https://HieuFromWaterloo.github.io/post/gib/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://HieuFromWaterloo.github.io/post/gib/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In this project, as far as data science concerns, we have 3 main goals. First, we need to apply Machine Learning to effectively analyze, forecast and detect anomalies in stock trends in Canadian financial markets. Second, we need to deploy Natural Language Processing methodologies on financial news and earning calls to successfully pick up the key indicators that lead to a capital intensive activities (mergers and acquisitions, strategic expansion, debt maturities due, etc.). Lastly, we need to incorporate the output from the previous two objectives along with other relevant factors and train an algorithm to detect potential capital funding opportunities in an unsupervised fashion.&lt;/p&gt;
+&lt;p&gt;Note: due to confidential reasons, materials for this project is reserved&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Property Evaluation</title>
+      <link>https://HieuFromWaterloo.github.io/post/stat444/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://HieuFromWaterloo.github.io/post/stat444/</guid>
+      <description>&lt;p&gt;Provided the Washing D.C residential data set, our objective is to build statistical learning algorithms to predict the housing prices in the capital of the United States. In this project, we design 4 different models, all being trained and validated based on the Root Mean Squared Log Error (RMSLE) over 5-fold cross validation. The first model is smoothing, which has the error (RMLSE) of 0.19856. The second model is random forest, which produces the error (RMLSE) of 0.180. Third, our boosting model has an error of 0.16746. Lastly, we took the average of the predictions from random forest and boosting and get an error of 0.17162&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

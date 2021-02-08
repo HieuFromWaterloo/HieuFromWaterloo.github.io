@@ -5,12 +5,23 @@
     <link>https://HieuFromWaterloo.github.io/tag/deep-learning/</link>
       <atom:link href="https://HieuFromWaterloo.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://HieuFromWaterloo.github.io/images/icon_hua36de68d39ce8783373fe07433c3394d_363359_512x512_fill_lanczos_center_2.png</url>
       <title>Deep Learning</title>
       <link>https://HieuFromWaterloo.github.io/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning &amp; NLP applications in Capital Markets</title>
+      <link>https://HieuFromWaterloo.github.io/post/gib/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://HieuFromWaterloo.github.io/post/gib/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In this project, as far as data science concerns, we have 3 main goals. First, we need to apply Machine Learning to effectively analyze, forecast and detect anomalies in stock trends in Canadian financial markets. Second, we need to deploy Natural Language Processing methodologies on financial news and earning calls to successfully pick up the key indicators that lead to a capital intensive activities (mergers and acquisitions, strategic expansion, debt maturities due, etc.). Lastly, we need to incorporate the output from the previous two objectives along with other relevant factors and train an algorithm to detect potential capital funding opportunities in an unsupervised fashion.&lt;/p&gt;
+&lt;p&gt;Note: due to confidential reasons, materials for this project is reserved&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An Introduction to Graph Convolution Networks (GCN)</title>
