@@ -43,22 +43,12 @@
   </url>
   
   <url>
-    <loc>https://HieuFromWaterloo.github.io/categories/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://HieuFromWaterloo.github.io/post/lda/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://HieuFromWaterloo.github.io/post/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://HieuFromWaterloo.github.io/category/statistics/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -125,6 +115,10 @@
   <url>
     <loc></loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://HieuFromWaterloo.github.io/categories/</loc>
   </url>
   
 </urlset>
